@@ -1,6 +1,6 @@
 +++
 date = '2026-09-29T14:17:35+03:00'
-draft = true
+draft = false
 title = 'Introduction to BD-RIS'
 +++
 

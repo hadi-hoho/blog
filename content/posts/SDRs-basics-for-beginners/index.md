@@ -1,6 +1,6 @@
 +++
 date = '2026-08-27T20:41:44Z'
-draft = true
+draft = false
 title = 'The World of Software-Defined Radios'
 +++
 

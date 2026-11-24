@@ -2,6 +2,7 @@
 date = '2026-09-29T14:17:35+03:00'
 draft = false
 title = 'Introduction to BD-RIS'
+imagePositionFeature = 'center 33%'
 +++
 
 {{< katex >}}
@@ -208,3 +209,5 @@ So, for me, the progression looks something like this:
 That is what I find most interesting about the topic.
 
 RIS is not simply another antenna or another relay. It represents a different way of thinking about the wireless channel: rather than accepting propagation as something nature gives us, future wireless systems may increasingly **engineer the propagation environment itself**.
+
+*Card image shows a conventional 16 × 16 RIS prototype. Photograph from [Figure 5 of Dai et al. (2020)](https://oa.ee.tsinghua.edu.cn/~dailinglong/publications/paper/Reconfigurable%20intelligent%20surface-based%20wireless%20communication_Antenna%20design%2C%20prototyping%20and%20experimental%20results.pdf#page=4), cropped on the card and used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

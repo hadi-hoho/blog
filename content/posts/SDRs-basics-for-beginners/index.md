@@ -367,3 +367,5 @@ You can write a few hundred lines of code implementing a transmitter, send the w
 The equations suddenly leave the textbook.
 
 They become signals on your screen.
+
+*Card image shows a HackRF One circuit board. [Photograph by Alexander Neumann](https://commons.wikimedia.org/wiki/File:Hackrf-one-img_0008.jpg), released into the public domain.*

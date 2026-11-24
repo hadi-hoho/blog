@@ -1,6 +1,6 @@
 +++
 date = '2026-11-24'
-draft = false
+draft = true
 title = 'SC8 vs. SC16: How Much IQ Precision Do We Really Need?'
 description = 'Exploring IQ quantization, weak-signal detection, and the practical limits of real-time software-defined radio.'
 tags = ['SDR', 'Signal Processing', 'Quantization', 'Wireless Communications']

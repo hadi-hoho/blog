@@ -1,0 +1,11 @@
+{
+  "cpu": "Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "python": "3.11.9",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "rounds": 25,
+  "repeats_per_round": 100,
+  "warmup_calls": 15,
+  "fft_workers": 1
+}

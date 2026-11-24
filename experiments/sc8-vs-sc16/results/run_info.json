@@ -1,0 +1,14 @@
+{
+  "seed": 20261124,
+  "python": "3.11.9",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "matplotlib": "3.10.9",
+  "c_h0_calibration": 200000,
+  "c_h0_validation": 200000,
+  "c_h1_per_snr": 20000,
+  "d_h0_calibration": 50000,
+  "d_h0_validation": 30000,
+  "d_h1": 12000,
+  "e_symbols_per_setting": 400000
+}
